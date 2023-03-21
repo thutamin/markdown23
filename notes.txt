@@ -1,0 +1,14 @@
+1. What is Markdown?
+
+- Basically a simplified markup language that is used for formatting text.
+- Created in 2004 by John Gruber and Aaron Swartz.
+- Widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+- Wiki: https://en.wikipedia.org/wiki/Markdown
+- Original documentation: https://daringfireball.net/projects/markdown/
+
+2. Why would you use Markdown?
+
+- Much easier to learn, read and use than HTML.
+- There are different flavours of markdown.
+
+ 
