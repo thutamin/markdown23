@@ -82,7 +82,7 @@ Some text <br> some more text
 
 <!-- Checklists -->
 - [X] Task #1
-- [] Task #2
+- [ ] Task #2
 
 
 <!-- Tables -->
